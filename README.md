@@ -43,3 +43,8 @@ This is a private project. I share the files to help others who want to do somet
 ## Feedback
 
 I am grateful for feedback, bugs and feature requests. I will incorporate them into the project if necessary. If you want to extend the functionality or don't want to wait for me, feel free to fork this project.
+
+## Contribution
+
+The usage and implementation of the Photoelectric sensor is inspired by https://tutorials-raspberrypi.de/infrarot-lichtschranke-bauen-und-geschwindigkeit-messen/.
+
