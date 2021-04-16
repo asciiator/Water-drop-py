@@ -19,7 +19,7 @@ We will use a Raspberry Pi and a Lumix camera to take photos of waterdrops on a 
 
 ## Construction
 
-![](construct.JPG) #picture
+![](construct.JPG)
 
 ## Wiring
 
@@ -36,3 +36,10 @@ sudo python waterdrop.py
 ```
 You are asked how much time will be waited until the camera gets a capture command. A usfull period of time depends on the height of the light barrier and the size of the water drops.
 
+## Disclaimer
+
+This is a private project. I share the files to help others who want to do something similar. Although I have done this project to the best of my ability, I cannot guarantee that the software will work. Downloading and using is at your own risk.
+
+## Feedback
+
+I am grateful for feedback, bugs and feature requests. I will incorporate them into the project if necessary. If you want to extend the functionality or don't want to wait for me, feel free to fork this project.
